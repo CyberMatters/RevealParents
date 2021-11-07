@@ -23,9 +23,9 @@ RevealParents take a PID as input and then will recursively display information 
 
 If the script completes successfully you should see this in your terminal :
 
-![success1](images/success1.PNG)
-![success2](images/success2.PNG)
-![success3](images/success3.PNG)
+![success1](images/success01.PNG)
+![success2](images/success02.PNG)
+![success3](images/success03.PNG)
 
 ⚠️ If a parent process is not running anymore, its information will not be displayed. ⚠️
 
