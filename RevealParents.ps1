@@ -12,7 +12,7 @@ function display-info{
 
 	Write-Host "`n`n------------ PROCESS INFO BELOW : ------------`n`n"
 	Write-Host "ProcessName :`n`n"=> $a.ProcessName"`n"
-	Write-Host "ProcessName :`n`n"=> $a.Path"`n"
+	Write-Host "ImagePath :`n`n"=> $a.Path"`n"
 	Write-Host "ProcessId :`n`n"=> $a.ProcessId"`n"
 	
 	if($a.CommandLine -ne $null){
