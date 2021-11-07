@@ -27,7 +27,7 @@ If the script completes successfully you should see this in your terminal :
 ![success2](images/success2.PNG)
 ![success3](images/success3.PNG)
 
-/!\ If a parent process is not running anymore, its information will not be displayed. /!\
+⚠️ If a parent process is not running anymore, its information will not be displayed. ⚠️
 
 ## Requirements
 
